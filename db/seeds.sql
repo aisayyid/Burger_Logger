@@ -1,6 +1,8 @@
-INSERT INTO cats (name) VALUES ('Meeses');
-INSERT INTO cats (name) VALUES ('Bobbi');
-INSERT INTO cats (name, sleepy) VALUES ('Sylvester', true);
-INSERT INTO cats (name, sleepy) VALUES ('Marilyn Manson', true);
-INSERT INTO cats (name, sleepy) VALUES ('Joe Biden', true);
-INSERT INTO cats (name) VALUES ('Owens');
+USE burgers_db;
+
+INSERT INTO burgers (name) VALUES ('Cheese Burger');
+INSERT INTO burgers (name) VALUES ('Hamburger');
+INSERT INTO burgers (name, devoured) VALUES ('Angus Burger', true);
+INSERT INTO burgers (name, devoured) VALUES ('Lamb Burger', true);
+INSERT INTO burgers (name, devoured) VALUES ('Blue Cheese Burger', true);
+INSERT INTO burgers (name) VALUES ('Swiss Mushroom Burger');
