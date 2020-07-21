@@ -13,6 +13,13 @@
   Used Technology: Node.js, Express, Express-Handlebars, MySQL, Heroku, DBeaver.  Packages are required and need to be installed.
   ## Usage
   The user has the ability to add a burger they'd like to devour, which will be added to the list on the left.  Once they click devour, the listed burger will go to the list ont he right.  If they want to add the already devoured burger back to the list of burgers they desire to eat, they can click the "un-devour" button.
+ 
+  ![](images/notdevoured.png)
+  
+  ![](images/searchbar.png)
+   
+  ![](images/devoured.png)
+  
   ## License
   MIT
   ## Contributing
