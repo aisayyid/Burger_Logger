@@ -22,6 +22,8 @@
    
   ![](images/devoured.png)
   
+   ![](images/Burger_GIF.gif)
+  
   ## License
   MIT
   ## Contributing
@@ -30,4 +32,6 @@
   
   ## Questions
   For any questions, [mailto:alexisayyid@gmail.com], or visit my [GitHub] (https://github.com/aisayyid) 
+  
+ 
  
