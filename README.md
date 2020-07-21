@@ -22,13 +22,13 @@
    
   ![](images/devoured.png)
   
-   ![](images/Burger_GIF.gif)
-  
   ## License
   MIT
   ## Contributing
   
-  ## Tests
+  ## Demo
+   
+   ![](images/Burger_GIF.gif)
   
   ## Questions
   For any questions, [mailto:alexisayyid@gmail.com], or visit my [GitHub] (https://github.com/aisayyid) 
