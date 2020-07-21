@@ -7,7 +7,7 @@
   - [Usage](#Usage)
   - [License](#License)
   - [Contributing](#Contributing)
-  - [Tests](#Tests)
+  - [Demo](#Demo)
   - [Questions](#Questions)
   ## Installation
   Used Technology: Node.js, Express, Express-Handlebars, MySQL, Heroku, DBeaver.  Packages are required and need to be installed.
